@@ -1,0 +1,2 @@
+# SQLZoo
+Exercises from SQLZoo
